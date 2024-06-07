@@ -1,0 +1,6 @@
+@MiddleAssignment.Backend_HostAddress = http://localhost:5094
+
+GET {{MiddleAssignment.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
